@@ -50,6 +50,6 @@ I led the project team and contributed to developing the website's frontend, bac
 
 ---
 
-**Project:** An E-Commerce website for Furniture Shopping
+**Project:** An E-Commerce website for Furniture Shopping <br>
 **Project Name:** Woody State  
 **Category:** Full-Stack Web Development
