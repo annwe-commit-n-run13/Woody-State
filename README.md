@@ -52,3 +52,17 @@ I led the project team and contributed to developing the website's frontend, bac
 **Project:** An E-Commerce website for Furniture Shopping <br>
 **Project Name:** Woody State  
 **Category:** Full-Stack Web Development
+
+**Screenshots:**
+## Home Page:
+<img width="1362" height="602" alt="Screenshot 2026-11-07 030807" src="https://github.com/user-attachments/assets/88b26959-db16-41f8-ba38-a51f57834fd4" />
+## Top Products
+<img width="1359" height="602" alt="Screenshot 2026-11-07 030843" src="https://github.com/user-attachments/assets/dc4fdfc5-e827-40c2-9a67-9cb09ac9e621" />
+## Product Page
+<img width="1071" height="608" alt="Screenshot 2026-11-07 031219" src="https://github.com/user-attachments/assets/c9f63e6a-8c2c-4315-8309-5f35ebd60dc1" />
+## Checkout Page
+<img width="1118" height="606" alt="Screenshot 2026-11-07 031258" src="https://github.com/user-attachments/assets/220d0425-a209-4878-b2a7-f81f3b3da241" />
+## Admin Dashboard
+<img width="1272" height="565" alt="Screenshot 2026-11-07 032327" src="https://github.com/user-attachments/assets/8d5925f2-4fff-46e8-b57a-00e0fa4fbc3c" />
+## Admin Product CRUD page
+<img width="1250" height="602" alt="Screenshot 2026-11-07 032350" src="https://github.com/user-attachments/assets/cb1bc7b5-ae6e-4e94-b328-6146b7342aea" />
