@@ -1,4 +1,3 @@
-# Woody-State
 # 🪑 Woody State – Furniture E-Commerce Website
 
 A full-stack furniture e-commerce website developed during my internship, featuring an aesthetically designed frontend, database-driven product management, customer interactions, and an administrative dashboard.
